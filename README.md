@@ -8,7 +8,7 @@ Developed Smart Contract for the Prescreening Test of [Nurture Labs](https://nur
 
 ### Assignment
 
-This Smart Contract is made for Using CRUD Operations..
+This Smart Contract is made for Using CRUD Operations.
 
 | Functions | Description |
 | ------ | ------ |
